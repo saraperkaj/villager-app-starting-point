@@ -12,12 +12,6 @@ class App extends Component {
     };
   }
 
-  changeVillager = () => {};
-
-  addVillager = () => {};
-
-  handleReset = () => {};
-
   render() {
     return (
       <div className="App">
